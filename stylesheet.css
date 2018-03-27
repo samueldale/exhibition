@@ -1,0 +1,32 @@
+h1 {
+	color: #800000;
+	font-family: 'Georgia';
+	font-size: 40px;
+	text-transform: uppercase;
+	text-align: center
+}
+body {
+	background-color:BurlyWood;
+	text-align: center-left;
+}
+p {
+	color: #800000;
+	font-size: 30px;
+}
+
+.noelpicture{
+	text-align: center;
+}
+.daramolapicture{
+	text-align: center;
+}
+
+a {
+	color: #800000;
+	font-size:40px;
+}
+hr {
+	color: #800000;
+	height: 8px;
+	font-weight: bold;
+}
